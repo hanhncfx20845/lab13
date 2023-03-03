@@ -18,7 +18,7 @@ body::before {
   background-color: #000;
   background-size: cover;
   background-image: url("../images/bg-img1.jpg");
-  /* Focus on top and center of image */
+  /* Focus on top center of the image */
   background-position: top center;
 }
 
@@ -26,7 +26,7 @@ body::before {
   background-color: #000;
   background-size: cover;
   background-image: url("../images/bg-img2.jpg");
-  /* Focus on bottom and left of image */
+  /* Focus on bottom left of the image */
   background-position: bottom left;
 }
 
@@ -34,6 +34,6 @@ body::before {
   background-color: #000;
   background-size: cover;
   background-image: url("../images/bg-img3.jpg");
-  /* Focus on center of image */
+  /* Focus on center of the image */
   background-position: center center;
 }
